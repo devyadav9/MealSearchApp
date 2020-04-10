@@ -1,2 +1,0 @@
-# MealSearchApp
-Created with CodeSandbox
